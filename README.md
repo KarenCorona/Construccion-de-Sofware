@@ -1,1 +1,5 @@
 # Construccion-de-Sofware
+
+En este repositorio se encuentra el articulo sobre las variables en JavaScript el cual se irá actualizando conforme a lo aprendido en clase.
+
+También se irán agregando las actividades realizadas en clase
